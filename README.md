@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # hand-gesture-recognition-using-mediapipe
 Estimate hand pose using MediaPipe (Python version).<br> This is a sample 
 program that recognizes hand signs and finger gestures with a simple MLP using the detected key points.
@@ -148,3 +149,28 @@ Nikita Kiselov(https://github.com/kinivi)
  
 # License 
 hand-gesture-recognition-using-mediapipe is under [Apache v2 license](LICENSE).
+=======
+# Steps to get you started
+
+- Fork the repo
+- clone it on your system
+- make two separate python files for both the questions
+- push your changes on github
+- make a pull request
+
+## Installation
+
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/your-username/ERC-25-CV-WEEK4.git
+
+    ```
+2. Navigate to the project directory:
+    ```sh
+    cd ERC-25-CV-WEEK4
+    ```
+3. Install the required dependencies:
+    ```sh
+    pip install -r requirements.txt
+    ```
+>>>>>>> 0f398e987a3024b6cbf3de3b48d3307ca17277cb
